@@ -20,3 +20,4 @@ console.log ('-9' - 5) //-14 ?? //это не + значит математик�
 console.log (null + 1) //1
 console.log (undefined + 1) //NaN 
 console.log ('\t\n' - 2) //-2
+console.log ('\t\n' + 2) //
